@@ -1,2 +1,1 @@
-# practice_git
-for coursera graded assignment
+I am editing the README file. Adding some more details about the project description.
